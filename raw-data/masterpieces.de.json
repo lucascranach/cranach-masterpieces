@@ -1,0 +1,3810 @@
+[
+  {
+    "title": "Bildnis des Johannes Cuspinian",
+    "date": "1502",
+    "description": "Brustbildnis des Historiographen Dr. Johannes Cuspinian (eigentlich Spiessheimer)\nTeil eines Diptychons (Gegenstück zum Bildnis der Anna Cuspinian)",
+    "dimensions": "Maße Bildträger: 60,3 x 45,5 x 0,45-0,55 cm (Format nahezu original)",
+    "media": {
+      "infos": {
+        "maxDimensions": {
+          "width": 6864,
+          "height": 4674
+        },
+        "hasOverallOverview": true
+      },
+      "images": [
+        {
+          "id": "CH_SORW_1925-1b_FR006_2008-11_Overall",
+          "metadata": {
+            "fileType": "Scan eines Diapositivs",
+            "description": "Gesamtaufnahme",
+            "created": "Sammlung Oskar Reinhart, Winterthur",
+            "date": "2008-11",
+            "source": "Sammlung Oskar Reinhart, Winterthur"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 266
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1b_FR006/01_Overall/CH_SORW_1925-1b_FR006_2008-11_Overall-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 531
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1b_FR006/01_Overall/CH_SORW_1925-1b_FR006_2008-11_Overall-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 797
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1b_FR006/01_Overall/CH_SORW_1925-1b_FR006_2008-11_Overall-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 3300,
+                "height": 4381
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1b_FR006/01_Overall/CH_SORW_1925-1b_FR006_2008-11_Overall-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1b_FR006/01_Overall/CH_SORW_1925-1b_FR006_2008-11_Overall.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "CH_SORW_1925-1b_FR006_2008-11_Overall_Overview",
+          "metadata": null,
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 128
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1b_FR006/01_Overall/CH_SORW_1925-1b_FR006_2008-11_Overall_Overview-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 255
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1b_FR006/01_Overall/CH_SORW_1925-1b_FR006_2008-11_Overall_Overview-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 383
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1b_FR006/01_Overall/CH_SORW_1925-1b_FR006_2008-11_Overall_Overview-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 6864,
+                "height": 4381
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1b_FR006/01_Overall/CH_SORW_1925-1b_FR006_2008-11_Overall_Overview-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1b_FR006/01_Overall/CH_SORW_1925-1b_FR006_2008-11_Overall_Overview.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "CH_SORW_1925-1b_FR006_c1995_Overall-001",
+          "metadata": {
+            "fileType": "Scan eines Diapositivs",
+            "description": "Gesamtaufnahme",
+            "created": "Gunnar Heydenreich, cda",
+            "date": "ca. 1995",
+            "source": "cda"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 264
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1b_FR006/01_Overall/CH_SORW_1925-1b_FR006_c1995_Overall-001-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 529
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1b_FR006/01_Overall/CH_SORW_1925-1b_FR006_c1995_Overall-001-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 793
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1b_FR006/01_Overall/CH_SORW_1925-1b_FR006_c1995_Overall-001-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 2532,
+                "height": 3346
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1b_FR006/01_Overall/CH_SORW_1925-1b_FR006_c1995_Overall-001-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1b_FR006/01_Overall/CH_SORW_1925-1b_FR006_c1995_Overall-001.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "CH_SORW_1925-1b_FR006_image-date-unknown_Overall-002",
+          "metadata": {
+            "fileType": "scan einer schwarz-weiß Fotografie",
+            "description": "Gesamtaufnahme",
+            "created": "unbekannt",
+            "date": "unbekannt",
+            "source": "Dieter Köplin Archiv, Basel"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 262
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1b_FR006/01_Overall/CH_SORW_1925-1b_FR006_image-date-unknown_Overall-002-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 525
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1b_FR006/01_Overall/CH_SORW_1925-1b_FR006_image-date-unknown_Overall-002-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 787
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1b_FR006/01_Overall/CH_SORW_1925-1b_FR006_image-date-unknown_Overall-002-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 3542,
+                "height": 4646
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1b_FR006/01_Overall/CH_SORW_1925-1b_FR006_image-date-unknown_Overall-002-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1b_FR006/01_Overall/CH_SORW_1925-1b_FR006_image-date-unknown_Overall-002.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "CH_SORW_1925-1b_FR006_RKD_Overall-001r",
+          "metadata": {
+            "fileType": "Scan eines Farbdias",
+            "description": "Gesamtaufnahme",
+            "created": "Netherlands Institute for Art History (RKD), The Hague; Max J. Friedländer Archive",
+            "date": "unbekannt",
+            "source": "Netherlands Institute for Art History (RKD), The Hague; Max J. Friedländer Archive"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 267
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1b_FR006/11_RKD/01_Overall/CH_SORW_1925-1b_FR006_RKD_Overall-001r-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 534
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1b_FR006/11_RKD/01_Overall/CH_SORW_1925-1b_FR006_RKD_Overall-001r-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 801
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1b_FR006/11_RKD/01_Overall/CH_SORW_1925-1b_FR006_RKD_Overall-001r-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 2188,
+                "height": 2921
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1b_FR006/11_RKD/01_Overall/CH_SORW_1925-1b_FR006_RKD_Overall-001r-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1b_FR006/11_RKD/01_Overall/CH_SORW_1925-1b_FR006_RKD_Overall-001r.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "CH_SORW_1925-1b_FR006_RKD_Overall-001v",
+          "metadata": {
+            "fileType": "Scan eines Farbdias",
+            "description": "Rückseite des Fotos",
+            "created": "Netherlands Institute for Art History (RKD), The Hague; Max J. Friedländer Archive",
+            "date": "unbekannt",
+            "source": "Netherlands Institute for Art History (RKD), The Hague; Max J. Friedländer Archive"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 263
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1b_FR006/11_RKD/01_Overall/CH_SORW_1925-1b_FR006_RKD_Overall-001v-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 526
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1b_FR006/11_RKD/01_Overall/CH_SORW_1925-1b_FR006_RKD_Overall-001v-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 789
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1b_FR006/11_RKD/01_Overall/CH_SORW_1925-1b_FR006_RKD_Overall-001v-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 2196,
+                "height": 2887
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1b_FR006/11_RKD/01_Overall/CH_SORW_1925-1b_FR006_RKD_Overall-001v-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1b_FR006/11_RKD/01_Overall/CH_SORW_1925-1b_FR006_RKD_Overall-001v.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "CH_SORW_1925-1b_FR006_RKD_Overall-002r",
+          "metadata": {
+            "fileType": "scan einer schwarz-weiß Fotografie",
+            "description": "Gesamtaufnahme",
+            "created": "Netherlands Institute for Art History (RKD), The Hague; Max J. Friedländer Archive",
+            "date": "vor 1958",
+            "source": "Netherlands Institute for Art History (RKD), The Hague; Max J. Friedländer Archive"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 260
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1b_FR006/11_RKD/01_Overall/CH_SORW_1925-1b_FR006_RKD_Overall-002r-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 520
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1b_FR006/11_RKD/01_Overall/CH_SORW_1925-1b_FR006_RKD_Overall-002r-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 780
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1b_FR006/11_RKD/01_Overall/CH_SORW_1925-1b_FR006_RKD_Overall-002r-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 3595,
+                "height": 4674
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1b_FR006/11_RKD/01_Overall/CH_SORW_1925-1b_FR006_RKD_Overall-002r-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1b_FR006/11_RKD/01_Overall/CH_SORW_1925-1b_FR006_RKD_Overall-002r.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "CH_SORW_1925-1b_FR006_RKD_Overall-002v",
+          "metadata": {
+            "fileType": "scan einer schwarz-weiß Fotografie",
+            "description": "Rückseite des Fotos",
+            "created": "Netherlands Institute for Art History (RKD), The Hague; Max J. Friedländer Archive",
+            "date": "vor 1958",
+            "source": "Netherlands Institute for Art History (RKD), The Hague; Max J. Friedländer Archive"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 260
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1b_FR006/11_RKD/01_Overall/CH_SORW_1925-1b_FR006_RKD_Overall-002v-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 520
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1b_FR006/11_RKD/01_Overall/CH_SORW_1925-1b_FR006_RKD_Overall-002v-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 780
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1b_FR006/11_RKD/01_Overall/CH_SORW_1925-1b_FR006_RKD_Overall-002v-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 3595,
+                "height": 4674
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1b_FR006/11_RKD/01_Overall/CH_SORW_1925-1b_FR006_RKD_Overall-002v-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1b_FR006/11_RKD/01_Overall/CH_SORW_1925-1b_FR006_RKD_Overall-002v.dzi",
+              "type": "dzi"
+            }
+          }
+        }
+      ]
+    },
+    "classification": "Malerei",
+    "repository": "Sammlung Oskar Reinhart, Winterthur",
+    "owner": "Sammlung Oskar Reinhart, Winterthur",
+    "artist": "Lucas Cranach der Ältere",
+    "sortingNumber": "1502-002",
+    "id": "CH_SORW_1925-1b",
+    "medium": "Malerei auf Fichtenholz (Picea sp.)",
+    "gptDescription": "Das Bildnis des Johannes Cuspinian ist ein Gemälde auf Fichtenholz von Lucas Cranach dem Älteren. Es zeigt den Historiographen Dr. Johannes Cuspinian als Brustbild. Das Gemälde ist Teil eines Diptychons, das zusammen mit dem Bildnis der Anna Cuspinian gehört. Auf der Rückseite des Bildes sind fragmentarisch gemalte Allianzwappen der Familien Spiessheimer und Putsch zu sehen. Das Gemälde gehört zur Sammlung Oskar Reinhart in Winterthur. Es stammt aus dem Jahr 1502 oder um 1502-1503."
+  },
+  {
+    "title": "Bildnis der Anna Cuspinian",
+    "date": "1502",
+    "description": "Brustbildnis der Frau des Historiographen Dr. Johannes Cuspinian (Spiessheimer)\nTeil eines Diptychons (Gegenstück zum Bildnis des Johannes Cuspinian)",
+    "dimensions": "Maße Bildträger: 60,2-60,1 x 45,5-45 x 0,45-0,55 cm (Format nahezu original)",
+    "media": {
+      "infos": {
+        "maxDimensions": {
+          "width": 6864,
+          "height": 4509
+        },
+        "hasOverallOverview": true
+      },
+      "images": [
+        {
+          "id": "CH_SORW_1925-1a_FR007_1998-11_Overall",
+          "metadata": {
+            "fileType": "Scan eines Diapositivs",
+            "description": "Gesamtaufnahme",
+            "created": "Sammlung Oskar Reinhart, Winterthur",
+            "date": "1998-11",
+            "source": "Sammlung Oskar Reinhart, Winterthur"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 269
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1a_FR007/01_Overall/CH_SORW_1925-1a_FR007_1998-11_Overall-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 538
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1a_FR007/01_Overall/CH_SORW_1925-1a_FR007_1998-11_Overall-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 807
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1a_FR007/01_Overall/CH_SORW_1925-1a_FR007_1998-11_Overall-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 2976,
+                "height": 4002
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1a_FR007/01_Overall/CH_SORW_1925-1a_FR007_1998-11_Overall-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1a_FR007/01_Overall/CH_SORW_1925-1a_FR007_1998-11_Overall.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "CH_SORW_1925-1a_FR007_2008-11_Overall_Overview",
+          "metadata": null,
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 128
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1a_FR007/01_Overall/CH_SORW_1925-1a_FR007_2008-11_Overall_Overview-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 255
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1a_FR007/01_Overall/CH_SORW_1925-1a_FR007_2008-11_Overall_Overview-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 383
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1a_FR007/01_Overall/CH_SORW_1925-1a_FR007_2008-11_Overall_Overview-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 6864,
+                "height": 4381
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1a_FR007/01_Overall/CH_SORW_1925-1a_FR007_2008-11_Overall_Overview-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1a_FR007/01_Overall/CH_SORW_1925-1a_FR007_2008-11_Overall_Overview.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "CH_SORW_1925-1a_FR007_1998-11_Overall-001",
+          "metadata": {
+            "fileType": "Scan eines Farbdias",
+            "description": "Gesamtaufnahme",
+            "created": "Gunnar Heydenreich, cda",
+            "date": "1998-11",
+            "source": "cda"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 268
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1a_FR007/01_Overall/CH_SORW_1925-1a_FR007_1998-11_Overall-001-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 536
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1a_FR007/01_Overall/CH_SORW_1925-1a_FR007_1998-11_Overall-001-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 804
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1a_FR007/01_Overall/CH_SORW_1925-1a_FR007_1998-11_Overall-001-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 2562,
+                "height": 3433
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1a_FR007/01_Overall/CH_SORW_1925-1a_FR007_1998-11_Overall-001-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1a_FR007/01_Overall/CH_SORW_1925-1a_FR007_1998-11_Overall-001.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "CH_SORW_1925-1a_FR007_RKD_Overall-001r",
+          "metadata": {
+            "fileType": "Scan eines Diapositivs",
+            "description": "Gesamtaufnahme",
+            "created": "Netherlands Institute for Art History (RKD), The Hague; Max J. Friedländer Archive",
+            "date": "unbekannt",
+            "source": "Netherlands Institute for Art History (RKD), The Hague; Max J. Friedländer Archive"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 263
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1a_FR007/11_RKD/01_Overall/CH_SORW_1925-1a_FR007_RKD_Overall-001r-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 526
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1a_FR007/11_RKD/01_Overall/CH_SORW_1925-1a_FR007_RKD_Overall-001r-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 789
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1a_FR007/11_RKD/01_Overall/CH_SORW_1925-1a_FR007_RKD_Overall-001r-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 2212,
+                "height": 2908
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1a_FR007/11_RKD/01_Overall/CH_SORW_1925-1a_FR007_RKD_Overall-001r-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1a_FR007/11_RKD/01_Overall/CH_SORW_1925-1a_FR007_RKD_Overall-001r.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "CH_SORW_1925-1a_FR007_RKD_Overall-001v",
+          "metadata": {
+            "fileType": "Scan eines Diapositivs",
+            "description": "Rückseite des Fotos",
+            "created": "Netherlands Institute for Art History (RKD), The Hague; Max J. Friedländer Archive",
+            "date": "vor 1958",
+            "source": "Netherlands Institute for Art History (RKD), The Hague; Max J. Friedländer Archive"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 262
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1a_FR007/11_RKD/01_Overall/CH_SORW_1925-1a_FR007_RKD_Overall-001v-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 524
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1a_FR007/11_RKD/01_Overall/CH_SORW_1925-1a_FR007_RKD_Overall-001v-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 786
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1a_FR007/11_RKD/01_Overall/CH_SORW_1925-1a_FR007_RKD_Overall-001v-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 2208,
+                "height": 2891
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1a_FR007/11_RKD/01_Overall/CH_SORW_1925-1a_FR007_RKD_Overall-001v-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1a_FR007/11_RKD/01_Overall/CH_SORW_1925-1a_FR007_RKD_Overall-001v.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "CH_SORW_1925-1a_FR007_RKD_Overall-002r",
+          "metadata": {
+            "fileType": "scan einer schwarz-weiß Fotografie",
+            "description": "Gesamtaufnahme",
+            "created": "Netherlands Institute for Art History (RKD), The Hague; Max J. Friedländer Archive",
+            "date": "vor 1958",
+            "source": "Netherlands Institute for Art History (RKD), The Hague; Max J. Friedländer Archive"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 263
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1a_FR007/11_RKD/01_Overall/CH_SORW_1925-1a_FR007_RKD_Overall-002r-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 525
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1a_FR007/11_RKD/01_Overall/CH_SORW_1925-1a_FR007_RKD_Overall-002r-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 788
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1a_FR007/11_RKD/01_Overall/CH_SORW_1925-1a_FR007_RKD_Overall-002r-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 3435,
+                "height": 4509
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1a_FR007/11_RKD/01_Overall/CH_SORW_1925-1a_FR007_RKD_Overall-002r-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1a_FR007/11_RKD/01_Overall/CH_SORW_1925-1a_FR007_RKD_Overall-002r.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "CH_SORW_1925-1a_FR007_RKD_Overall-002v",
+          "metadata": {
+            "fileType": "scan einer schwarz-weiß Fotografie",
+            "description": "Rückseite des Fotos",
+            "created": "Netherlands Institute for Art History (RKD), The Hague; Max J. Friedländer Archive",
+            "date": "vor 1958",
+            "source": "Netherlands Institute for Art History (RKD), The Hague; Max J. Friedländer Archive"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 263
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1a_FR007/11_RKD/01_Overall/CH_SORW_1925-1a_FR007_RKD_Overall-002v-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 525
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1a_FR007/11_RKD/01_Overall/CH_SORW_1925-1a_FR007_RKD_Overall-002v-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 788
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1a_FR007/11_RKD/01_Overall/CH_SORW_1925-1a_FR007_RKD_Overall-002v-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 3435,
+                "height": 4509
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1a_FR007/11_RKD/01_Overall/CH_SORW_1925-1a_FR007_RKD_Overall-002v-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/CH_SORW_1925-1a_FR007/11_RKD/01_Overall/CH_SORW_1925-1a_FR007_RKD_Overall-002v.dzi",
+              "type": "dzi"
+            }
+          }
+        }
+      ]
+    },
+    "classification": "Malerei",
+    "repository": "Sammlung Oskar Reinhart, Winterthur",
+    "owner": "Sammlung Oskar Reinhart, Winterthur",
+    "artist": "Lucas Cranach der Ältere",
+    "sortingNumber": "1502-003",
+    "id": "CH_SORW_1925-1a",
+    "medium": "Malerei auf Fichtenholz (Picea sp.)",
+    "gptDescription": "Das \"Bildnis der Anna Cuspinian\" ist ein Gemälde auf Fichtenholz, das Anna Cuspinian, die Frau des Historiographen Dr. Johannes Cuspinian zeigt. Es ist Teil eines Diptychons, das auch ein Bildnis von Johannes Cuspinian enthält. Das Gemälde wird Lucas Cranach dem Älteren zugeschrieben und wurde zwischen 1502 und 1503 datiert. Es befindet sich in der Sammlung Oskar Reinhart in Winterthur. Dieses Werk war Teil einer Ausstellung in Winterthur und Wien im Jahr 2022."
+  },
+  {
+    "title": "Kreuzigung Christi, sog. \"Schottenkreuzigung\"",
+    "date": "1501",
+    "description": "Vielfigurige Kreuzigung in felsiger Landschaft, das Kreuz in der Bildmitte, aus einem rohen, nur grob behauenen Baumstamm gebildet, der Körper Christi blutüberströmt und stark von den Spuren der Passion gezeichnet, links und rechts von den beiden, ebenfalls auf rohen Baumstämmen gekreuzigten  Schächern flankiert. Die Assistenzfiguren am Fuß des Kreuzes sind in zwei Gruppen geteilt, links die trauernden Frauen um Maria mit Johannes, ganz am linken Bildrand eine bäuerlich gekleidete Figur, rechts eine Gruppe von drei auffallend gekleideten Reitern.\n[Karl Schütz, 2005]",
+    "dimensions": "Maße Bildträger: 58,4 (oben) - 58,1 (unten) x 45,1(links) - 45.8 (rechts) x 2,5 - 2,6 cm \n(3-4 mm Aufdoppelung, Gesamtstärke max. 9 mm. Das originale Bildformat ist weitgehend erhalten)\n[Kunsthistorisches Museum, revised 2010]",
+    "media": {
+      "infos": {
+        "maxDimensions": {
+          "width": 7517,
+          "height": 9751
+        },
+        "hasOverallOverview": false
+      },
+      "images": [
+        {
+          "id": "AT_KHM_GG6905_FR001_2008-08_Overall",
+          "metadata": {
+            "fileType": "Digitale Aufnahme",
+            "description": "Gesamtaufnahme",
+            "created": "Kunsthistorisches Museum, Wien",
+            "date": "2008-08",
+            "source": "Kunsthistorisches Museum, Wien; Gemälderestaurierung"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 254
+              },
+              "src": "https://lucascranach.org/imageserver-2022/AT_KHM_GG6905_FR001/01_Overall/AT_KHM_GG6905_FR001_2008-08_Overall-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 508
+              },
+              "src": "https://lucascranach.org/imageserver-2022/AT_KHM_GG6905_FR001/01_Overall/AT_KHM_GG6905_FR001_2008-08_Overall-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 762
+              },
+              "src": "https://lucascranach.org/imageserver-2022/AT_KHM_GG6905_FR001/01_Overall/AT_KHM_GG6905_FR001_2008-08_Overall-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 2689,
+                "height": 3415
+              },
+              "src": "https://lucascranach.org/imageserver-2022/AT_KHM_GG6905_FR001/01_Overall/AT_KHM_GG6905_FR001_2008-08_Overall-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/AT_KHM_GG6905_FR001/01_Overall/AT_KHM_GG6905_FR001_2008-08_Overall.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "AT_KHM_GG6905_FR001_Image-date-unknown_Overall-001",
+          "metadata": {
+            "fileType": "Scan eines schwarz-weiß Fotos",
+            "description": "Gesamtaufnahme",
+            "created": "verwaist",
+            "date": "unbekannt",
+            "source": "Archiv Dieter Koepplin, Basel"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 278
+              },
+              "src": "https://lucascranach.org/imageserver-2022/AT_KHM_GG6905_FR001/01_Overall/AT_KHM_GG6905_FR001_Image-date-unknown_Overall-001-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 556
+              },
+              "src": "https://lucascranach.org/imageserver-2022/AT_KHM_GG6905_FR001/01_Overall/AT_KHM_GG6905_FR001_Image-date-unknown_Overall-001-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 834
+              },
+              "src": "https://lucascranach.org/imageserver-2022/AT_KHM_GG6905_FR001/01_Overall/AT_KHM_GG6905_FR001_Image-date-unknown_Overall-001-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 5049,
+                "height": 7018
+              },
+              "src": "https://lucascranach.org/imageserver-2022/AT_KHM_GG6905_FR001/01_Overall/AT_KHM_GG6905_FR001_Image-date-unknown_Overall-001-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/AT_KHM_GG6905_FR001/01_Overall/AT_KHM_GG6905_FR001_Image-date-unknown_Overall-001.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "AT_KHM_GG6905_FR001_1937_Overall-002",
+          "metadata": {
+            "fileType": "Scan eines Glasplattennegativs (237 x 175mm)",
+            "description": "Detail ",
+            "created": "Gemäldegalerie der Staatlichen Museen zu Berlin - Preußischer Kulturbesitz",
+            "date": "1937, Ausstellungskatalog Berlin, Nr. 001",
+            "source": "Gemäldegalerie der Staatlichen Museen zu Berlin - Preußischer Kulturbesitz"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 259
+              },
+              "src": "https://lucascranach.org/imageserver-2022/AT_KHM_GG6905_FR001/01_Overall/AT_KHM_GG6905_FR001_1937_Overall-002-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 519
+              },
+              "src": "https://lucascranach.org/imageserver-2022/AT_KHM_GG6905_FR001/01_Overall/AT_KHM_GG6905_FR001_1937_Overall-002-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 778
+              },
+              "src": "https://lucascranach.org/imageserver-2022/AT_KHM_GG6905_FR001/01_Overall/AT_KHM_GG6905_FR001_1937_Overall-002-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 7517,
+                "height": 9751
+              },
+              "src": "https://lucascranach.org/imageserver-2022/AT_KHM_GG6905_FR001/01_Overall/AT_KHM_GG6905_FR001_1937_Overall-002-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/AT_KHM_GG6905_FR001/01_Overall/AT_KHM_GG6905_FR001_1937_Overall-002.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "AT_KHM_GG6905_FR001_RKD_Overall-001r",
+          "metadata": {
+            "fileType": "Scan einer Reproduktion",
+            "description": "Gesamtaufnahme",
+            "created": "Netherlands Institute for Art History (RKD), Den Haag; Max J. Friedländer Archiv",
+            "date": "vor 1958",
+            "source": "Netherlands Institute for Art History (RKD), Den Haag; Max J. Friedländer Archiv"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 278
+              },
+              "src": "https://lucascranach.org/imageserver-2022/AT_KHM_GG6905_FR001/11_RKD/01_Overall/AT_KHM_GG6905_FR001_RKD_Overall-001r-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 556
+              },
+              "src": "https://lucascranach.org/imageserver-2022/AT_KHM_GG6905_FR001/11_RKD/01_Overall/AT_KHM_GG6905_FR001_RKD_Overall-001r-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 833
+              },
+              "src": "https://lucascranach.org/imageserver-2022/AT_KHM_GG6905_FR001/11_RKD/01_Overall/AT_KHM_GG6905_FR001_RKD_Overall-001r-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 2713,
+                "height": 3768
+              },
+              "src": "https://lucascranach.org/imageserver-2022/AT_KHM_GG6905_FR001/11_RKD/01_Overall/AT_KHM_GG6905_FR001_RKD_Overall-001r-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/AT_KHM_GG6905_FR001/11_RKD/01_Overall/AT_KHM_GG6905_FR001_RKD_Overall-001r.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "AT_KHM_GG6905_FR001_RKD_Overall-001v",
+          "metadata": {
+            "fileType": "Scan einer Reproduktion",
+            "description": "Rückseite der Reproduktion",
+            "created": "Netherlands Institute for Art History (RKD), Den Haag; Max J. Friedländer Archiv",
+            "date": "vor 1958",
+            "source": "Netherlands Institute for Art History (RKD), Den Haag; Max J. Friedländer Archiv"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 278
+              },
+              "src": "https://lucascranach.org/imageserver-2022/AT_KHM_GG6905_FR001/11_RKD/01_Overall/AT_KHM_GG6905_FR001_RKD_Overall-001v-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 556
+              },
+              "src": "https://lucascranach.org/imageserver-2022/AT_KHM_GG6905_FR001/11_RKD/01_Overall/AT_KHM_GG6905_FR001_RKD_Overall-001v-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 833
+              },
+              "src": "https://lucascranach.org/imageserver-2022/AT_KHM_GG6905_FR001/11_RKD/01_Overall/AT_KHM_GG6905_FR001_RKD_Overall-001v-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 2713,
+                "height": 3768
+              },
+              "src": "https://lucascranach.org/imageserver-2022/AT_KHM_GG6905_FR001/11_RKD/01_Overall/AT_KHM_GG6905_FR001_RKD_Overall-001v-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/AT_KHM_GG6905_FR001/11_RKD/01_Overall/AT_KHM_GG6905_FR001_RKD_Overall-001v.dzi",
+              "type": "dzi"
+            }
+          }
+        }
+      ]
+    },
+    "classification": "Malerei",
+    "repository": "Kunsthistorisches Museum, Wien",
+    "owner": "Kunsthistorisches Museum, Wien",
+    "artist": "Lucas Cranach der Ältere",
+    "sortingNumber": "1501-001",
+    "id": "AT_KHM_GG6905",
+    "medium": "Malerei auf Lindenholz (Tilia sp.)\n[Klein, Bericht 2013]\n[P. Klein, Bericht von 1980]",
+    "gptDescription": "Die \"Schottenkreuzigung\" von Lucas Cranach ist ein Gemälde, das die Kreuzigung Christi zeigt. Das Kreuz steht in der Bildmitte und ist aus einem grob behauenen Baumstamm gefertigt. Der blutüberströmte Körper Christi und die gekreuzigten Schächer flankieren das Kreuz. Am Fuß des Kreuzes sind trauernde Frauen um Maria mit Johannes zu sehen, sowie eine bäuerlich gekleidete Figur und drei auffällig gekleidete Reiter. Dieses Gemälde ist im Kunsthistorischen Museum in Wien zu bewundern."
+  },
+  {
+    "title": "Klage unter dem Kreuz",
+    "date": "1503",
+    "description": "Kreuzigung Christi in gedrehter Komposition, das Kreuz Christi rechts, das der Schächer links und halblinks, Maria und Johannes in der Mitte. Maria schaut zu Christus empor. Rechts unter dem Kreuz Christi ein Ausblick in eine weite Landschaft mit Bergen und einem See mit einem Wasserschloss. Dunkle Wolken ziehen auf.\n\n[Martin Schawe, Alte Pinakothek München, 26.03.2010]",
+    "dimensions": "Maße Bildträger: 137,8-138 x 98,3-99,3 x 0,8-1,5 cm\n(am linken Bildrand geringfügig beschnitten, originale Bildfläche erhalten)\nMaße Bildfläche: 136-135,6 x 97 x 97,3 cm\n\n[Bayerische Staatsgemäldesammlungen, revised 2010]",
+    "media": {
+      "infos": {
+        "maxDimensions": {
+          "width": 6157,
+          "height": 8725
+        },
+        "hasOverallOverview": false
+      },
+      "images": [
+        {
+          "id": "DE_BStGS_1416_FR005_2006_Overall",
+          "metadata": {
+            "fileType": "Digitale Aufnahme",
+            "description": "Gesamtaufnahme",
+            "created": "Bayerische Staatsgemäldesammlungen",
+            "date": "2006",
+            "source": "Bayerische Staatsgemäldesammlungen; Alte Pinakothek, München"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 277
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS_1416_FR005/01_Overall/DE_BStGS_1416_FR005_2006_Overall-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 553
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS_1416_FR005/01_Overall/DE_BStGS_1416_FR005_2006_Overall-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 830
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS_1416_FR005/01_Overall/DE_BStGS_1416_FR005_2006_Overall-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 4360,
+                "height": 6032
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS_1416_FR005/01_Overall/DE_BStGS_1416_FR005_2006_Overall-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS_1416_FR005/01_Overall/DE_BStGS_1416_FR005_2006_Overall.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "DE_BStGS_1416_FR005_2006_Overall-001",
+          "metadata": {
+            "fileType": "Digitale Aufnahme",
+            "description": "Gesamtaufnahme",
+            "created": "Bayerische Staatsgemäldesammlungen",
+            "date": "2006",
+            "source": "Bayerische Staatsgemäldesammlungen, Alte Pinakothek, München"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 281
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS_1416_FR005/01_Overall/DE_BStGS_1416_FR005_2006_Overall-001-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 562
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS_1416_FR005/01_Overall/DE_BStGS_1416_FR005_2006_Overall-001-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 843
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS_1416_FR005/01_Overall/DE_BStGS_1416_FR005_2006_Overall-001-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 4560,
+                "height": 6406
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS_1416_FR005/01_Overall/DE_BStGS_1416_FR005_2006_Overall-001-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS_1416_FR005/01_Overall/DE_BStGS_1416_FR005_2006_Overall-001.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "DE_BStGS_1416_FR005_Overall-002",
+          "metadata": {
+            "fileType": "Scan eines Dokumentes",
+            "description": "Inventarblatt der Bayerischen Staatsgemäldesammlungen",
+            "created": "Bayerische Staatsgemäldesammlungen",
+            "date": "vor 1983",
+            "source": "Bayerische Staatsgemäldesammlungen, Alte Pinakothek, München"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 270
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS_1416_FR005/01_Overall/DE_BStGS_1416_FR005_Overall-002-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 540
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS_1416_FR005/01_Overall/DE_BStGS_1416_FR005_Overall-002-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 810
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS_1416_FR005/01_Overall/DE_BStGS_1416_FR005_Overall-002-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 2276,
+                "height": 3072
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS_1416_FR005/01_Overall/DE_BStGS_1416_FR005_Overall-002-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS_1416_FR005/01_Overall/DE_BStGS_1416_FR005_Overall-002.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "DE_BStGS_1416_FR005_1937_Overall-003",
+          "metadata": {
+            "fileType": "Scan eines Glasplattennegativs (237 x 175mm)",
+            "description": "Gesamtaufnahme",
+            "created": "Gemäldegalerie der Staatlichen Museen zu Berlin - Preußischer Kulturbesitz",
+            "date": "1937, Ausstellungskatalog Berlin, Nr. 005",
+            "source": "Gemäldegalerie der Staatlichen Museen zu Berlin - Preußischer Kulturbesitz"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 283
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS_1416_FR005/01_Overall/DE_BStGS_1416_FR005_1937_Overall-003-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 567
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS_1416_FR005/01_Overall/DE_BStGS_1416_FR005_1937_Overall-003-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 850
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS_1416_FR005/01_Overall/DE_BStGS_1416_FR005_1937_Overall-003-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 6157,
+                "height": 8725
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS_1416_FR005/01_Overall/DE_BStGS_1416_FR005_1937_Overall-003-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS_1416_FR005/01_Overall/DE_BStGS_1416_FR005_1937_Overall-003.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "DE_BStGS_1416_FR005_RKD_Overall-001r",
+          "metadata": {
+            "fileType": "scan einer schwarz-weiß Fotografie",
+            "description": "Gesamtaufnahme",
+            "created": "Netherlands Institute for Art History (RKD), The Hague; Max J. Friedländer Archiv",
+            "date": "vor 1958",
+            "source": "Netherlands Institute for Art History (RKD), The Hague; Max J. Friedländer Archiv"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 266
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS_1416_FR005/11_RKD/01_Overall/DE_BStGS_1416_FR005_RKD_Overall-001r-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 532
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS_1416_FR005/11_RKD/01_Overall/DE_BStGS_1416_FR005_RKD_Overall-001r-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 797
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS_1416_FR005/11_RKD/01_Overall/DE_BStGS_1416_FR005_RKD_Overall-001r-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 2666,
+                "height": 3543
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS_1416_FR005/11_RKD/01_Overall/DE_BStGS_1416_FR005_RKD_Overall-001r-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS_1416_FR005/11_RKD/01_Overall/DE_BStGS_1416_FR005_RKD_Overall-001r.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "DE_BStGS_1416_FR005_RKD_Overall-001v",
+          "metadata": {
+            "fileType": "scan einer schwarz-weiß Fotografie",
+            "description": "Rückseite der Fotografie",
+            "created": "Netherlands Institute for Art History (RKD), The Hague; Max J. Friedländer Archiv",
+            "date": "vor 1958",
+            "source": "Netherlands Institute for Art History (RKD), The Hague; Max J. Friedländer Archiv"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 266
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS_1416_FR005/11_RKD/01_Overall/DE_BStGS_1416_FR005_RKD_Overall-001v-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 532
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS_1416_FR005/11_RKD/01_Overall/DE_BStGS_1416_FR005_RKD_Overall-001v-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 797
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS_1416_FR005/11_RKD/01_Overall/DE_BStGS_1416_FR005_RKD_Overall-001v-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 2666,
+                "height": 3543
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS_1416_FR005/11_RKD/01_Overall/DE_BStGS_1416_FR005_RKD_Overall-001v-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS_1416_FR005/11_RKD/01_Overall/DE_BStGS_1416_FR005_RKD_Overall-001v.dzi",
+              "type": "dzi"
+            }
+          }
+        }
+      ]
+    },
+    "classification": "Malerei",
+    "repository": "Alte Pinakothek, München",
+    "owner": "Bayerische Staatsgemäldesammlungen",
+    "artist": "Lucas Cranach der Ältere",
+    "sortingNumber": "1503-003",
+    "id": "DE_BStGS_1416",
+    "medium": "Malerei auf Tannenholz (Abies sp.)\n[Klein, Bericht 2013]\n[Exhib. Cat. Munich 2011, 137, No. 1416]\n[Bayerische Staatsgemäldesammlungen, revised 2010]\n[Klein, Bericht 2006]",
+    "gptDescription": "Das Gemälde \"Klage unter dem Kreuz\" von Lucas Cranach der Ältere zeigt die Kreuzigung Christi in einer drehenden Komposition. Das Kreuz Christi befindet sich rechts, das des Schächers links und halblinks, während Maria und Johannes in der Mitte dargestellt sind. Maria schaut zu Christus empor. Unter dem Kreuz bietet sich ein Ausblick auf eine weite Landschaft mit Bergen, einem See und einem Wasserschloss. Dunkle Wolken ziehen auf. Das Gemälde stammt aus dem Jahr 1503 und befindet sich in den Bayerischen Staatsgemäldesammlungen. Es wurde auf Tannenholz gemalt."
+  },
+  {
+    "title": "Kardinal Albrecht von Brandenburg vor dem Gekreuzigten",
+    "date": "1520 - 1525",
+    "description": "Kardinal Albrecht von Brandenburg kniet links im Bild am Boden, ins Halbprofil nach rechts gewendet. Rechts Christus am Kreuz, links eine Birke, der Himmel verfinstert sich; im Hintergrund ein Ausblick in eine Landschaft.",
+    "dimensions": "Maße Bildträger: 158,4 x 112,4 x 2,2 cm\n[Bayerische Staatsgemäldesammlungen, revised 2010]",
+    "media": {
+      "infos": {
+        "maxDimensions": {
+          "width": 6249,
+          "height": 8740
+        },
+        "hasOverallOverview": false
+      },
+      "images": [
+        {
+          "id": "DE_BStGS_3819_FR183_2006_Overall",
+          "metadata": {
+            "fileType": "Digitale Aufnahme",
+            "description": "Gesamtaufnahme",
+            "created": "Bayerische Staatsgemäldesammlungen",
+            "date": "2006",
+            "source": "Bayerische Staatsgemäldesammlungen; Alte Pinakothek, München"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 283
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS_3819_FR183/01_Overall/DE_BStGS_3819_FR183_2006_Overall-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 566
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS_3819_FR183/01_Overall/DE_BStGS_3819_FR183_2006_Overall-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 849
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS_3819_FR183/01_Overall/DE_BStGS_3819_FR183_2006_Overall-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 4264,
+                "height": 6036
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS_3819_FR183/01_Overall/DE_BStGS_3819_FR183_2006_Overall-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS_3819_FR183/01_Overall/DE_BStGS_3819_FR183_2006_Overall.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "DE_BStGS_3819_FR183_2006_Overall-001_1408",
+          "metadata": {
+            "fileType": "Digitale Aufnahme",
+            "description": "Gesamtaufnahme",
+            "created": "Bayerische Staatsgemäldesammlungen",
+            "date": "2006",
+            "source": "Bayerische Staatsgemäldesammlungen; Alte Pinakothek, München"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 279
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS_3819_FR183/01_Overall/DE_BStGS_3819_FR183_2006_Overall-001_1408-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 559
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS_3819_FR183/01_Overall/DE_BStGS_3819_FR183_2006_Overall-001_1408-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 838
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS_3819_FR183/01_Overall/DE_BStGS_3819_FR183_2006_Overall-001_1408-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 4528,
+                "height": 6326
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS_3819_FR183/01_Overall/DE_BStGS_3819_FR183_2006_Overall-001_1408-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS_3819_FR183/01_Overall/DE_BStGS_3819_FR183_2006_Overall-001_1408.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "DE_BStGS_3819_FR183_Overall-002",
+          "metadata": {
+            "fileType": "Scan eines Dokumentes",
+            "description": "Inventarblatt der Bayerischen Staatsgemäldesammlungen",
+            "created": "Bayerische Staatsgemäldesammlungen",
+            "date": "unbekannt",
+            "source": "Bayerische Staatsgemäldesammlungen; Alte Pinakothek, München"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 272
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS_3819_FR183/01_Overall/DE_BStGS_3819_FR183_Overall-002-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 545
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS_3819_FR183/01_Overall/DE_BStGS_3819_FR183_Overall-002-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 817
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS_3819_FR183/01_Overall/DE_BStGS_3819_FR183_Overall-002-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 2256,
+                "height": 3072
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS_3819_FR183/01_Overall/DE_BStGS_3819_FR183_Overall-002-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS_3819_FR183/01_Overall/DE_BStGS_3819_FR183_Overall-002.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "DE_BStGS_3819_FR183_1937__Overall-003",
+          "metadata": {
+            "fileType": "Scan eines Glasplattennegativs (237 x 175mm)",
+            "description": "Gesamtaufnahme",
+            "created": "Gemäldegalerie der Staatlichen Museen zu Berlin - Preußischer Kulturbesitz",
+            "date": "1937, Ausstellungskatalog Berlin, Nr. 043",
+            "source": "Gemäldegalerie der Staatlichen Museen zu Berlin - Preußischer Kulturbesitz"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 280
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS_3819_FR183/01_Overall/DE_BStGS_3819_FR183_1937__Overall-003-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 559
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS_3819_FR183/01_Overall/DE_BStGS_3819_FR183_1937__Overall-003-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 839
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS_3819_FR183/01_Overall/DE_BStGS_3819_FR183_1937__Overall-003-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 6249,
+                "height": 8740
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS_3819_FR183/01_Overall/DE_BStGS_3819_FR183_1937__Overall-003-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS_3819_FR183/01_Overall/DE_BStGS_3819_FR183_1937__Overall-003.dzi",
+              "type": "dzi"
+            }
+          }
+        }
+      ]
+    },
+    "classification": "Malerei",
+    "repository": "Alte Pinakothek, München",
+    "owner": "Bayerische Staatsgemäldesammlungen",
+    "artist": "Lucas Cranach der Ältere",
+    "sortingNumber": "1522-001-01",
+    "id": "DE_BStGS_3819",
+    "medium": "Malerei auf Tannenholz (Abies alba)\n[Klein, Report 2013]\n[Exhib. Cat. Munich 2011, 138, No. 3819]\n[Bayerische Staatsgemäldesammlungen, revised 2010]",
+    "gptDescription": "Kardinal Albrecht von Brandenburg kniet vor dem Gekreuzigten, dargestellt auf Tannenholz. Im Hintergrund ist eine Landschaft zu sehen, während der Himmel sich verdunkelt. Rechts vom Kardinal steht Christus am Kreuz und links eine Birke. Das Gemälde wird Lucas Cranach dem Älteren zugeschrieben und stammt aus dem Zeitraum von 1520-1525. Es befindet sich in den Bayerischen Staatsgemäldesammlungen in München. Das Werk war Teil verschiedener Ausstellungen, darunter in Dresden 1899 und Berlin 1937."
+  },
+  {
+    "title": "Bildnis des Königs Christian II. von Dänemark",
+    "date": "1523",
+    "description": "Brustbild nach rechts, mit Händen, vor grünem Grund. Er hat braune Augen, dunkelblondes Haar und Bart. Er ist schwarz gekleidet. Er trägt eine Schaube mit breitem Schulterkragen, Wams und Barett, an einem Band auf der Brust das Emblem des Ordens vom Goldenen Vlies - das Widderfell. An seinem linken Daumen ein Goldring. Rechts oben das königlich dänische Wappen.\n\n[Löcher, Cat. Nuremberg 1997, 133]",
+    "dimensions": "Maße Bildträger: 55,2 x 38 x 0,7-1 cm\n[Löcher, Cat. Nuremberg 1997, 134]",
+    "media": {
+      "infos": {
+        "maxDimensions": {
+          "width": 6003,
+          "height": 8632
+        },
+        "hasOverallOverview": false
+      },
+      "images": [
+        {
+          "id": "DE_BStGS-GNMN_Gm214_FR150_2011-08_Overall",
+          "metadata": {
+            "fileType": "Digitale Aufnahme",
+            "description": "Gesamtaufnahme",
+            "created": "Germanisches Nationalmuseum, Nuremberg",
+            "date": "2011-08",
+            "source": "Germanisches Nationalmuseum, Nuremberg"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 295
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS-GNMN_Gm214_FR150/01_Overall/DE_BStGS-GNMN_Gm214_FR150_2011-08_Overall-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 589
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS-GNMN_Gm214_FR150/01_Overall/DE_BStGS-GNMN_Gm214_FR150_2011-08_Overall-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 884
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS-GNMN_Gm214_FR150/01_Overall/DE_BStGS-GNMN_Gm214_FR150_2011-08_Overall-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 3320,
+                "height": 4889
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS-GNMN_Gm214_FR150/01_Overall/DE_BStGS-GNMN_Gm214_FR150_2011-08_Overall-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS-GNMN_Gm214_FR150/01_Overall/DE_BStGS-GNMN_Gm214_FR150_2011-08_Overall.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "DE_BStGS-GNMN_Gm214_FR150_2011-08_Overall-001",
+          "metadata": {
+            "fileType": "Digitale Aufnahme",
+            "description": "Gesamtaufnahme",
+            "created": "Germanisches Nationalmuseum, Nuremberg",
+            "date": "2011-08",
+            "source": "Germanisches Nationalmuseum, Nuremberg"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 317
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS-GNMN_Gm214_FR150/01_Overall/DE_BStGS-GNMN_Gm214_FR150_2011-08_Overall-001-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 634
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS-GNMN_Gm214_FR150/01_Overall/DE_BStGS-GNMN_Gm214_FR150_2011-08_Overall-001-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 952
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS-GNMN_Gm214_FR150/01_Overall/DE_BStGS-GNMN_Gm214_FR150_2011-08_Overall-001-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 3320,
+                "height": 5266
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS-GNMN_Gm214_FR150/01_Overall/DE_BStGS-GNMN_Gm214_FR150_2011-08_Overall-001-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS-GNMN_Gm214_FR150/01_Overall/DE_BStGS-GNMN_Gm214_FR150_2011-08_Overall-001.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "DE_BStGS-GNMN_Gm214_FR150_2010-09_Overall-002",
+          "metadata": {
+            "fileType": "Digitale Aufnahme",
+            "description": "Gesamtaufnahme",
+            "created": "Gunnar Heydenreich, cda",
+            "date": "2010-09",
+            "source": "cda"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 274
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS-GNMN_Gm214_FR150/01_Overall/DE_BStGS-GNMN_Gm214_FR150_2010-09_Overall-002-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 548
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS-GNMN_Gm214_FR150/01_Overall/DE_BStGS-GNMN_Gm214_FR150_2010-09_Overall-002-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 822
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS-GNMN_Gm214_FR150/01_Overall/DE_BStGS-GNMN_Gm214_FR150_2010-09_Overall-002-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 2766,
+                "height": 3790
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS-GNMN_Gm214_FR150/01_Overall/DE_BStGS-GNMN_Gm214_FR150_2010-09_Overall-002-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS-GNMN_Gm214_FR150/01_Overall/DE_BStGS-GNMN_Gm214_FR150_2010-09_Overall-002.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "DE_BStGS-GNMN_Gm214_FR150_Overall-003",
+          "metadata": {
+            "fileType": "scan einer schwarz-weiß Fotografie",
+            "description": "Inventarblatt",
+            "created": "Germanisches Nationalmuseum, Nuremberg",
+            "date": "unbekannt",
+            "source": "Germanisches Nationalmuseum, Nuremberg"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 287
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS-GNMN_Gm214_FR150/01_Overall/DE_BStGS-GNMN_Gm214_FR150_Overall-003-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 574
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS-GNMN_Gm214_FR150/01_Overall/DE_BStGS-GNMN_Gm214_FR150_Overall-003-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 861
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS-GNMN_Gm214_FR150/01_Overall/DE_BStGS-GNMN_Gm214_FR150_Overall-003-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 2141,
+                "height": 3072
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS-GNMN_Gm214_FR150/01_Overall/DE_BStGS-GNMN_Gm214_FR150_Overall-003-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS-GNMN_Gm214_FR150/01_Overall/DE_BStGS-GNMN_Gm214_FR150_Overall-003.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "DE_BStGS-GNMN_Gm214_FR150_1937_Overall-004",
+          "metadata": {
+            "fileType": "Scan eines Glasplattennegativs (237 x 175mm)",
+            "description": "Gesamtaufnahme",
+            "created": "Gemäldegalerie der Staatlichen Museen zu Berlin - Preußischer Kulturbesitz",
+            "date": "1937, Ausstellungskatalog Berlin, Nr. 047",
+            "source": "Gemäldegalerie der Staatlichen Museen zu Berlin - Preußischer Kulturbesitz"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 288
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS-GNMN_Gm214_FR150/01_Overall/DE_BStGS-GNMN_Gm214_FR150_1937_Overall-004-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 575
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS-GNMN_Gm214_FR150/01_Overall/DE_BStGS-GNMN_Gm214_FR150_1937_Overall-004-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 863
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS-GNMN_Gm214_FR150/01_Overall/DE_BStGS-GNMN_Gm214_FR150_1937_Overall-004-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 6003,
+                "height": 8632
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS-GNMN_Gm214_FR150/01_Overall/DE_BStGS-GNMN_Gm214_FR150_1937_Overall-004-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS-GNMN_Gm214_FR150/01_Overall/DE_BStGS-GNMN_Gm214_FR150_1937_Overall-004.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "DE_BStGS-GNMN_Gm214_FR150_RKD_Overall-001r",
+          "metadata": {
+            "fileType": "scan einer schwarz-weiß Fotografie",
+            "description": "Gesamtaufnahme",
+            "created": "Netherlands Institute for Art History (RKD), The Hague; Max J. Friedländer Archiv",
+            "date": "vor 1958",
+            "source": "Netherlands Institute for Art History (RKD), The Hague; Max J. Friedländer Archiv"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 279
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS-GNMN_Gm214_FR150/11_RKD/01_Overall/DE_BStGS-GNMN_Gm214_FR150_RKD_Overall-001r-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 558
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS-GNMN_Gm214_FR150/11_RKD/01_Overall/DE_BStGS-GNMN_Gm214_FR150_RKD_Overall-001r-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 836
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS-GNMN_Gm214_FR150/11_RKD/01_Overall/DE_BStGS-GNMN_Gm214_FR150_RKD_Overall-001r-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 2687,
+                "height": 3746
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS-GNMN_Gm214_FR150/11_RKD/01_Overall/DE_BStGS-GNMN_Gm214_FR150_RKD_Overall-001r-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS-GNMN_Gm214_FR150/11_RKD/01_Overall/DE_BStGS-GNMN_Gm214_FR150_RKD_Overall-001r.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "DE_BStGS-GNMN_Gm214_FR150_RKD_Overall-001v",
+          "metadata": {
+            "fileType": "scan einer schwarz-weiß Fotografie",
+            "description": "Rückseite des Fotos",
+            "created": "Netherlands Institute for Art History (RKD), The Hague; Max J. Friedländer Archiv",
+            "date": "vor 1958",
+            "source": "Netherlands Institute for Art History (RKD), The Hague; Max J. Friedländer Archiv"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 279
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS-GNMN_Gm214_FR150/11_RKD/01_Overall/DE_BStGS-GNMN_Gm214_FR150_RKD_Overall-001v-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 558
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS-GNMN_Gm214_FR150/11_RKD/01_Overall/DE_BStGS-GNMN_Gm214_FR150_RKD_Overall-001v-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 836
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS-GNMN_Gm214_FR150/11_RKD/01_Overall/DE_BStGS-GNMN_Gm214_FR150_RKD_Overall-001v-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 2687,
+                "height": 3746
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS-GNMN_Gm214_FR150/11_RKD/01_Overall/DE_BStGS-GNMN_Gm214_FR150_RKD_Overall-001v-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_BStGS-GNMN_Gm214_FR150/11_RKD/01_Overall/DE_BStGS-GNMN_Gm214_FR150_RKD_Overall-001v.dzi",
+              "type": "dzi"
+            }
+          }
+        }
+      ]
+    },
+    "classification": "Malerei",
+    "repository": "Germanisches Nationalmuseum, Nürnberg",
+    "owner": "Wittelsbacher Ausgleichsfond/Bayerische Staatsgemäldesammlungen",
+    "artist": "Lucas Cranach der Ältere",
+    "sortingNumber": "1523-000",
+    "id": "DE_BStGS-GNMN_Gm214",
+    "medium": "Malerei auf Lindenholz (Tilia sp.)\n[Klein, Bericht 2013]\n[Löcher, Cat. Nuremberg 1997, 134]",
+    "gptDescription": "Das Gemälde zeigt das Porträt von König Christian II. von Dänemark. Er wird in einem schwarzen Gewand dargestellt, mit braunen Augen und dunkelblondem Haar. Auf seiner Brust trägt er das Emblem des Ordens vom Goldenen Vlies und einen Goldring an seinem linken Daumen. Im Hintergrund ist das königlich dänische Wappen zu sehen. Das Gemälde ist Teil einer Ausstellung und bietet einen Einblick in die Kleidung und Symbole des Königs. Es zeigt Cranachs meisterhafte Porträtkunst und ist ein Beispiel für die historische Darstellung von Persönlichkeiten."
+  },
+  {
+    "title": "Marienaltarretabel, sogenannter Fürstenaltar [linker Flügel]",
+    "date": "um 1510",
+    "description": "Der schwarze Hintergrund der Mitteltafel setzt sich auch auf den Flügeln fort. Hier knien mit Friedrich dem Weisen und Johann dem Beständigen die beiden Stifter des Altars. Ihre Köpfe bilden zusammen mit denen der weiblichen Heiligen des Mittelbildes und Marias eine hierarchische Dreiecksanordnung, die der Komposition Ruhe verleiht und die beiden Fürsten gleichsam an der feierlichen Atmosphäre der zentralen Szene teilhaben lässt. Den Raum hinter den Herzögen füllen stehende Heilige, die an ihren Attributen als Bartholomäus (links) und Jakobus d. Ä. (rechts) zu identifizieren sind. Dem regierenden Friedrich legt Bartholomäus als besondere Auszeichnung die Hand auf die Schulter. Durch das strahlende Weiß seines Mantels dominiert diese Seite gegenüber dem rechten Flügel.\n[Görres, in Bonnet, Kopp-Schmitt, Görres 2010, 156]",
+    "dimensions": "Maße Bildträger: 106 x 41,5 x 0,9 cm\nMaße mit Rahmen: 116,5 x 51,3 x 5 cm\n[Anhaltische Gemälde-Galerie, revised 2011]",
+    "media": {
+      "infos": {
+        "maxDimensions": {
+          "width": 6111,
+          "height": 8047
+        },
+        "hasOverallOverview": true
+      },
+      "images": [
+        {
+          "id": "DE_AGGD_7a_FR020_1993_Overall",
+          "metadata": {
+            "fileType": "Scan eines Diapositivs",
+            "description": "Gesamtaufnahme",
+            "created": "Asmus Steuerlein, Dresden",
+            "date": "1993",
+            "source": "cda"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 503
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7a_FR020/01_Overall/DE_AGGD_7a_FR020_1993_Overall-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 1006
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7a_FR020/01_Overall/DE_AGGD_7a_FR020_1993_Overall-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 1510
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7a_FR020/01_Overall/DE_AGGD_7a_FR020_1993_Overall-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 2820,
+                "height": 7095
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7a_FR020/01_Overall/DE_AGGD_7a_FR020_1993_Overall-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7a_FR020/01_Overall/DE_AGGD_7a_FR020_1993_Overall.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "DE_AGGD_7a_FR020_c2008_Overall_Overview",
+          "metadata": null,
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 113
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7a_FR020/01_Overall/DE_AGGD_7a_FR020_c2008_Overall_Overview-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 227
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7a_FR020/01_Overall/DE_AGGD_7a_FR020_c2008_Overall_Overview-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 340
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7a_FR020/01_Overall/DE_AGGD_7a_FR020_c2008_Overall_Overview-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 3615,
+                "height": 2049
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7a_FR020/01_Overall/DE_AGGD_7a_FR020_c2008_Overall_Overview-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7a_FR020/01_Overall/DE_AGGD_7a_FR020_c2008_Overall_Overview.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "DE_AGGD_7a_FR020_1993_Overall-001",
+          "metadata": {
+            "fileType": "Scan eines Farbdias",
+            "description": "Gesamtaufnahme",
+            "created": "Asmus Steuerlein, Dresden",
+            "date": "1993",
+            "source": "Asmus Steuerlein, Dresden"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 282
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7a_FR020/01_Overall/DE_AGGD_7a_FR020_1993_Overall-001-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 564
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7a_FR020/01_Overall/DE_AGGD_7a_FR020_1993_Overall-001-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 845
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7a_FR020/01_Overall/DE_AGGD_7a_FR020_1993_Overall-001-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 5712,
+                "height": 8047
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7a_FR020/01_Overall/DE_AGGD_7a_FR020_1993_Overall-001-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7a_FR020/01_Overall/DE_AGGD_7a_FR020_1993_Overall-001.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "DE_AGGD_7a_FR020_2010-04_Overall-002",
+          "metadata": {
+            "fileType": "Digitale Aufnahme",
+            "description": "Gesamtaufnahme",
+            "created": "Gunnar Heydenreich, cda",
+            "date": "2010-04",
+            "source": "cda"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 301
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7a_FR020/01_Overall/DE_AGGD_7a_FR020_2010-04_Overall-002-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 601
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7a_FR020/01_Overall/DE_AGGD_7a_FR020_2010-04_Overall-002-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 902
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7a_FR020/01_Overall/DE_AGGD_7a_FR020_2010-04_Overall-002-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 2832,
+                "height": 4256
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7a_FR020/01_Overall/DE_AGGD_7a_FR020_2010-04_Overall-002-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7a_FR020/01_Overall/DE_AGGD_7a_FR020_2010-04_Overall-002.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "DE_AGGD_7a_FR020_2010-04_Overall-003",
+          "metadata": {
+            "fileType": "Digitale Aufnahme",
+            "description": "Gesamtaufnahme",
+            "created": "Gunnar Heydenreich, cda",
+            "date": "2010-04",
+            "source": "cda"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 534
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7a_FR020/01_Overall/DE_AGGD_7a_FR020_2010-04_Overall-003-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 1068
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7a_FR020/01_Overall/DE_AGGD_7a_FR020_2010-04_Overall-003-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 1602
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7a_FR020/01_Overall/DE_AGGD_7a_FR020_2010-04_Overall-003-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 1500,
+                "height": 4006
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7a_FR020/01_Overall/DE_AGGD_7a_FR020_2010-04_Overall-003-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7a_FR020/01_Overall/DE_AGGD_7a_FR020_2010-04_Overall-003.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "DE_AGGD_7a_FR020_Image-date-unknown_Overall-004",
+          "metadata": {
+            "fileType": "scan einer schwarz-weiß Fotografie",
+            "description": "Gesamtaufnahme",
+            "created": "Dieter Koeplin Archiv, Basel",
+            "date": "unbekannt",
+            "source": "Dieter Koeplin Archiv, Basel"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 277
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7a_FR020/01_Overall/DE_AGGD_7a_FR020_Image-date-unknown_Overall-004-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 554
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7a_FR020/01_Overall/DE_AGGD_7a_FR020_Image-date-unknown_Overall-004-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 831
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7a_FR020/01_Overall/DE_AGGD_7a_FR020_Image-date-unknown_Overall-004-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 5067,
+                "height": 7018
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7a_FR020/01_Overall/DE_AGGD_7a_FR020_Image-date-unknown_Overall-004-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7a_FR020/01_Overall/DE_AGGD_7a_FR020_Image-date-unknown_Overall-004.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "DE_AGGD_7a_FR020_c2008_Overall-005",
+          "metadata": {
+            "fileType": "Digitale Aufnahme",
+            "description": "Gesamtaufnahme",
+            "created": "Anhaltische Gemälde-Galerie, Dessau",
+            "date": "c. 2008",
+            "source": "Anhaltische Gemälde-Galerie, Dessau"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 113
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7a_FR020/01_Overall/DE_AGGD_7a_FR020_c2008_Overall-005-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 227
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7a_FR020/01_Overall/DE_AGGD_7a_FR020_c2008_Overall-005-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 340
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7a_FR020/01_Overall/DE_AGGD_7a_FR020_c2008_Overall-005-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 3615,
+                "height": 2049
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7a_FR020/01_Overall/DE_AGGD_7a_FR020_c2008_Overall-005-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7a_FR020/01_Overall/DE_AGGD_7a_FR020_c2008_Overall-005.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "DE_AGGD_7a_FR020_1937_Overall-006",
+          "metadata": {
+            "fileType": "Scan eines Glasplattennegativs (237 x 175mm)",
+            "description": "Gesamtaufnahme",
+            "created": "Gemäldegalerie der Staatlichen Museen zu Berlin - Preußischer Kulturbesitz",
+            "date": "1937, Ausstellungskatalog Berlin, Nr. 015",
+            "source": "Gemäldegalerie der Staatlichen Museen zu Berlin - Preußischer Kulturbesitz"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 245
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7a_FR020/01_Overall/DE_AGGD_7a_FR020_1937_Overall-006-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 491
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7a_FR020/01_Overall/DE_AGGD_7a_FR020_1937_Overall-006-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 736
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7a_FR020/01_Overall/DE_AGGD_7a_FR020_1937_Overall-006-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 6111,
+                "height": 7496
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7a_FR020/01_Overall/DE_AGGD_7a_FR020_1937_Overall-006-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7a_FR020/01_Overall/DE_AGGD_7a_FR020_1937_Overall-006.dzi",
+              "type": "dzi"
+            }
+          }
+        }
+      ]
+    },
+    "classification": "Malerei",
+    "repository": "Anhaltische Gemälde-Galerie, Dessau",
+    "owner": "Anhaltische Gemälde-Galerie, Dessau",
+    "artist": "Lucas Cranach der Ältere",
+    "sortingNumber": "1509-005",
+    "id": "DE_AGGD_7a",
+    "medium": "Malerei auf Lindenholz\n[Klingen, Cat. Dessau 1996, Bd. 1, 23]",
+    "gptDescription": "Auf dem Marienaltarretabel, dem sogenannten Fürstenaltar (linker Flügel), knien Friedrich der Weise und Johann der Beständige als Stifter des Altars. Zusammen mit den weiblichen Heiligen und Maria bilden sie eine hierarchische Dreiecksanordnung, die Ruhe in die Komposition bringt. Links sind stehende Heilige, identifiziert als Bartholomäus und Jakobus d. Ä. Bartholomäus legt Friedrich die Hand auf die Schulter. Durch das strahlende Weiß seines Mantels dominiert diese Seite gegenüber dem rechten Flügel. (Quelle: Wikipedia)"
+  },
+  {
+    "title": "Marienaltarretabel, sogenannter Fürstenaltar [rechter Flügel]",
+    "date": "um 1510",
+    "description": "Der schwarze Hintergrund der Mitteltafel setzt sich auch auf den Flügeln fort. Hier knien mit Friedrich dem Weisen und Johann dem Beständigen die beiden Stifter des Altars. Ihre Köpfe bilden zusammen mit denen der weiblichen Heiligen des Mittelbildes und Marias eine hierarchische Dreiecksanordnung, die der Komposition Ruhe verleiht und die beiden Fürsten gleichsam an der feierlichen Atmosphäre der zentralen Szene teilhaben lässt. Den Raum hinter den Herzögen füllen stehende Heilige, die an ihren Attributen als Bartholomäus (links) und Jakobus d. Ä. (rechts) zu identifizieren sind. Dem regierenden Friedrich legt Bartholomäus als besondere Auszeichnung die Hand auf die Schulter. Durch das strahlende Weiß seines Mantels dominiert diese Seite gegenüber dem rechten Flügel.\n[Görres, in Bonnet, Kopp-Schmitt, Görres 2010, 156]",
+    "dimensions": "Maße Bildträger: 106 x 41,5 x 0,9 cm\nMaße mit Rahmen: 116,5 x 51,3 x 5 cm\n[Anhaltische Gemälde-Galerie, revised 2011]",
+    "media": {
+      "infos": {
+        "maxDimensions": {
+          "width": 6111,
+          "height": 8047
+        },
+        "hasOverallOverview": true
+      },
+      "images": [
+        {
+          "id": "DE_AGGD_7b_FR020_1993_Overall",
+          "metadata": {
+            "fileType": "Scan eines Diapositivs",
+            "description": "Gesamtaufnahme",
+            "created": "Asmus Steuerlein, Dresden",
+            "date": "1993",
+            "source": "cda"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 497
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7b_FR020/01_Overall/DE_AGGD_7b_FR020_1993_Overall-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 994
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7b_FR020/01_Overall/DE_AGGD_7b_FR020_1993_Overall-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 1491
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7b_FR020/01_Overall/DE_AGGD_7b_FR020_1993_Overall-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 2835,
+                "height": 7044
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7b_FR020/01_Overall/DE_AGGD_7b_FR020_1993_Overall-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7b_FR020/01_Overall/DE_AGGD_7b_FR020_1993_Overall.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "DE_AGGD_7b_FR020_c2008_Overall_Overview",
+          "metadata": null,
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 113
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7b_FR020/01_Overall/DE_AGGD_7b_FR020_c2008_Overall_Overview-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 227
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7b_FR020/01_Overall/DE_AGGD_7b_FR020_c2008_Overall_Overview-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 340
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7b_FR020/01_Overall/DE_AGGD_7b_FR020_c2008_Overall_Overview-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 3615,
+                "height": 2049
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7b_FR020/01_Overall/DE_AGGD_7b_FR020_c2008_Overall_Overview-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7b_FR020/01_Overall/DE_AGGD_7b_FR020_c2008_Overall_Overview.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "DE_AGGD_7b_FR020_1993_Overall-001",
+          "metadata": {
+            "fileType": "Scan eines Farbdias",
+            "description": "Gesamtaufnahme",
+            "created": "Asmus Steuerlein, Dresden",
+            "date": "1993",
+            "source": "Asmus Steuerlein, Dresden"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 282
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7b_FR020/01_Overall/DE_AGGD_7b_FR020_1993_Overall-001-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 564
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7b_FR020/01_Overall/DE_AGGD_7b_FR020_1993_Overall-001-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 845
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7b_FR020/01_Overall/DE_AGGD_7b_FR020_1993_Overall-001-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 5712,
+                "height": 8047
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7b_FR020/01_Overall/DE_AGGD_7b_FR020_1993_Overall-001-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7b_FR020/01_Overall/DE_AGGD_7b_FR020_1993_Overall-001.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "DE_AGGD_7b_FR020_2010-04_Overall-002",
+          "metadata": {
+            "fileType": "Digitale Aufnahme",
+            "description": "Gesamtaufnahme",
+            "created": "Gunnar Heydenreich, cda",
+            "date": "2010-04",
+            "source": "cda"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 301
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7b_FR020/01_Overall/DE_AGGD_7b_FR020_2010-04_Overall-002-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 601
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7b_FR020/01_Overall/DE_AGGD_7b_FR020_2010-04_Overall-002-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 902
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7b_FR020/01_Overall/DE_AGGD_7b_FR020_2010-04_Overall-002-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 2832,
+                "height": 4256
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7b_FR020/01_Overall/DE_AGGD_7b_FR020_2010-04_Overall-002-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7b_FR020/01_Overall/DE_AGGD_7b_FR020_2010-04_Overall-002.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "DE_AGGD_7b_FR020_2010-04_Overall-003",
+          "metadata": {
+            "fileType": "Digitale Aufnahme",
+            "description": "Gesamtaufnahme",
+            "created": "Gunnar Heydenreich, cda",
+            "date": "2010-04",
+            "source": "cda"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 528
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7b_FR020/01_Overall/DE_AGGD_7b_FR020_2010-04_Overall-003-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 1057
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7b_FR020/01_Overall/DE_AGGD_7b_FR020_2010-04_Overall-003-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 1585
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7b_FR020/01_Overall/DE_AGGD_7b_FR020_2010-04_Overall-003-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 1482,
+                "height": 3916
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7b_FR020/01_Overall/DE_AGGD_7b_FR020_2010-04_Overall-003-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7b_FR020/01_Overall/DE_AGGD_7b_FR020_2010-04_Overall-003.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "DE_AGGD_7b_FR020_Image-date-unknown_Overall-004",
+          "metadata": {
+            "fileType": "scan einer schwarz-weiß Fotografie",
+            "description": "Gesamtaufnahme",
+            "created": "Dieter Koeplin Archiv, Basel",
+            "date": "unbekannt",
+            "source": "Dieter Koeplin Archiv, Basel"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 277
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7b_FR020/01_Overall/DE_AGGD_7b_FR020_Image-date-unknown_Overall-004-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 554
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7b_FR020/01_Overall/DE_AGGD_7b_FR020_Image-date-unknown_Overall-004-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 831
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7b_FR020/01_Overall/DE_AGGD_7b_FR020_Image-date-unknown_Overall-004-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 5067,
+                "height": 7018
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7b_FR020/01_Overall/DE_AGGD_7b_FR020_Image-date-unknown_Overall-004-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7b_FR020/01_Overall/DE_AGGD_7b_FR020_Image-date-unknown_Overall-004.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "DE_AGGD_7b_FR020_c2008_Overall-005",
+          "metadata": {
+            "fileType": "Digitale Aufnahme",
+            "description": "Gesamtaufnahme",
+            "created": "Anhaltische Gemälde-Galerie, Dessau",
+            "date": "c2008",
+            "source": "Anhaltische Gemälde-Galerie, Dessau"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 113
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7b_FR020/01_Overall/DE_AGGD_7b_FR020_c2008_Overall-005-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 227
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7b_FR020/01_Overall/DE_AGGD_7b_FR020_c2008_Overall-005-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 340
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7b_FR020/01_Overall/DE_AGGD_7b_FR020_c2008_Overall-005-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 3615,
+                "height": 2049
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7b_FR020/01_Overall/DE_AGGD_7b_FR020_c2008_Overall-005-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7b_FR020/01_Overall/DE_AGGD_7b_FR020_c2008_Overall-005.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "DE_AGGD_7b_FR020_1937_Overall-006",
+          "metadata": {
+            "fileType": "Scan eines Glasplattennegativs (237 x 175mm)",
+            "description": "Gesamtaufnahme",
+            "created": "Gemäldegalerie der Staatlichen Museen zu Berlin - Preußischer Kulturbesitz",
+            "date": "1937, Ausstellungskatalog Berlin, Nr. 015",
+            "source": "Gemäldegalerie der Staatlichen Museen zu Berlin - Preußischer Kulturbesitz"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 245
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7b_FR020/01_Overall/DE_AGGD_7b_FR020_1937_Overall-006-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 491
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7b_FR020/01_Overall/DE_AGGD_7b_FR020_1937_Overall-006-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 736
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7b_FR020/01_Overall/DE_AGGD_7b_FR020_1937_Overall-006-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 6111,
+                "height": 7496
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7b_FR020/01_Overall/DE_AGGD_7b_FR020_1937_Overall-006-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7b_FR020/01_Overall/DE_AGGD_7b_FR020_1937_Overall-006.dzi",
+              "type": "dzi"
+            }
+          }
+        }
+      ]
+    },
+    "classification": "Malerei",
+    "repository": "Anhaltische Gemälde-Galerie, Dessau",
+    "owner": "Anhaltische Gemälde-Galerie, Dessau",
+    "artist": "Lucas Cranach der Ältere",
+    "sortingNumber": "1509-007",
+    "id": "DE_AGGD_7b",
+    "medium": "Malerei auf Lindenholz\n[Klingen, Cat. Dessau 1996, Bd. 1, 23]",
+    "gptDescription": "Dieses Gemälde ist der rechte Flügel des Marienaltarretabels, genannt Fürstenaltar. Es zeigt die Herzöge Friedrich der Weise und Johann der Beständige kniend neben Maria und weiblichen Heiligen. Die Komposition schafft eine hierarchische Dreiecksanordnung, die Ruhe verleiht. Bartholomäus legt Friedrich die Hand auf die Schulter. Der strahlend weiße Mantel von Bartholomäus dominiert die Szene. Dieses Gemälde stammt aus dem frühen 16. Jahrhundert und gehört zur Sammlung der Anhaltischen Gemälde-Galerie in Dessau. Es ist Teil einer Cranach-Ausstellung und wurde bereits in verschiedenen Städten ausgestellt."
+  },
+  {
+    "title": "Marienaltarretabel, sogenannter Fürstenaltar [Mitteltafel]",
+    "date": "um 1510",
+    "description": "Bestimmt wird die Komposition durch die zentrale Marienfigur, die von den Heiligen Katharina und Barbara flankiert wird. Diese senken ihre Häupter ehrfürchtig und nehmen gegenüber Maria eine niedrigere Sitzposition ein. Maria hat den Kopf leicht nach links geneigt und richtet ihren sanften, gütigen Blick an den Betrachter. Ihre dichten dunkelbraunen Locken umspielen die Schultern und werden von einem schmalen schwarzen Haarband gehalten. Ein in seiner Feinheit kaum zu erkennender Schleier umhüllt die Kopf- und Stirnpartie. Das schwarze dünne Band um ihren Hals deutet an, dass sie unter dem roten Gewand ein Amulett oder einen Anhänger trägt. Ihren linken Arm und ihre Beine, von denen nur das rechte Knie zu sehen ist, bedeckt ein dunkler blauer Mantel. Mit sanften Berührungen stützt Maria das Christuskind, das auf ihrem Schoß sitzt. Nach links gewandt, hält es als Neuer Adam einen Apfel, während es mit seiner rechten Hand Katharina den Ring der wundersamen Vermählung an den Finger steckt. Zärtlich hält Katharina den Arm des Kindes, um diesen Vorgang zu erleichtern. Christus lächelt die Heilige an, die ihrerseits die Augen niederschlägt. Ihre Hände in Anbetung gefaltet, verfolgt Barbara still das Geschehen. Im Gegensatz zu Maria tragen die beiden Heiligen zeitgenössische Kleider. Ihre Attribute haben sie auf einem Gesims abgelegt, das den Bildraum nach vorne abschließt. Zwei Putti, deren durchsichtige Gewänder nichts von ihrer Nacktheit verdecken, nehmen die beiden oberen Ecken des Bildes ein. Der schwarze Hintergrund der Mitteltafel setzt sich auch auf den Flügeln fort.\n[Görres, in Bonnet, Kopp-Schmidt, Görres 2010, 156]",
+    "dimensions": "Maße Bildträger: 106 x 92,6 x 0,9 cm\nMaße mit Rahmen: 116,5 x 103,5 x 5 cm\n[Anhaltische Gemälde-Galerie, revised 2011]",
+    "media": {
+      "infos": {
+        "maxDimensions": {
+          "width": 6433,
+          "height": 7882
+        },
+        "hasOverallOverview": true
+      },
+      "images": [
+        {
+          "id": "DE_AGGD_7c_FR020_1993_Overall",
+          "metadata": {
+            "fileType": "Scan eines Diapositivs",
+            "description": "Gesamtaufnahme",
+            "created": "Asmus Steuerlein, Dresden",
+            "date": "1993",
+            "source": "cda"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 229
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7c_FR020/01_Overall/DE_AGGD_7c_FR020_1993_Overall-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 457
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7c_FR020/01_Overall/DE_AGGD_7c_FR020_1993_Overall-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 686
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7c_FR020/01_Overall/DE_AGGD_7c_FR020_1993_Overall-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 5940,
+                "height": 6791
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7c_FR020/01_Overall/DE_AGGD_7c_FR020_1993_Overall-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7c_FR020/01_Overall/DE_AGGD_7c_FR020_1993_Overall.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "DE_AGGD_7c_FR020_c2008_Overall_Overview",
+          "metadata": null,
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 113
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7c_FR020/01_Overall/DE_AGGD_7c_FR020_c2008_Overall_Overview-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 227
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7c_FR020/01_Overall/DE_AGGD_7c_FR020_c2008_Overall_Overview-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 340
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7c_FR020/01_Overall/DE_AGGD_7c_FR020_c2008_Overall_Overview-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 3615,
+                "height": 2049
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7c_FR020/01_Overall/DE_AGGD_7c_FR020_c2008_Overall_Overview-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7c_FR020/01_Overall/DE_AGGD_7c_FR020_c2008_Overall_Overview.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "DE_AGGD_7c_FR020_1993_Overall-001",
+          "metadata": {
+            "fileType": "Scan eines Diapositivs",
+            "description": "Gesmataufnahme",
+            "created": "Asmus Steuerlein, Dresden",
+            "date": "1993",
+            "source": "cda"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 263
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7c_FR020/01_Overall/DE_AGGD_7c_FR020_1993_Overall-001-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 525
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7c_FR020/01_Overall/DE_AGGD_7c_FR020_1993_Overall-001-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 788
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7c_FR020/01_Overall/DE_AGGD_7c_FR020_1993_Overall-001-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 6001,
+                "height": 7882
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7c_FR020/01_Overall/DE_AGGD_7c_FR020_1993_Overall-001-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7c_FR020/01_Overall/DE_AGGD_7c_FR020_1993_Overall-001.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "DE_AGGD_7c_FR020_2010-04_Overall-002",
+          "metadata": {
+            "fileType": "Digitale Aufnahme",
+            "description": "Gesamtaufnahme",
+            "created": "Gunnar Heydenreich, cda",
+            "date": "2010-04",
+            "source": "cda"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 257
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7c_FR020/01_Overall/DE_AGGD_7c_FR020_2010-04_Overall-002-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 513
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7c_FR020/01_Overall/DE_AGGD_7c_FR020_2010-04_Overall-002-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 770
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7c_FR020/01_Overall/DE_AGGD_7c_FR020_2010-04_Overall-002-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 2832,
+                "height": 3634
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7c_FR020/01_Overall/DE_AGGD_7c_FR020_2010-04_Overall-002-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7c_FR020/01_Overall/DE_AGGD_7c_FR020_2010-04_Overall-002.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "DE_AGGD_7c_FR020_2010-04_Overall-003",
+          "metadata": {
+            "fileType": "Digitale Aufnahme",
+            "description": "Gesamtaufnahme",
+            "created": "Gunnar Heydenreich, cda",
+            "date": "2010-04",
+            "source": "cda"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 231
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7c_FR020/01_Overall/DE_AGGD_7c_FR020_2010-04_Overall-003-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 462
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7c_FR020/01_Overall/DE_AGGD_7c_FR020_2010-04_Overall-003-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 693
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7c_FR020/01_Overall/DE_AGGD_7c_FR020_2010-04_Overall-003-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 2598,
+                "height": 3000
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7c_FR020/01_Overall/DE_AGGD_7c_FR020_2010-04_Overall-003-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7c_FR020/01_Overall/DE_AGGD_7c_FR020_2010-04_Overall-003.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "DE_AGGD_7c_FR020_c2008_Overall-004",
+          "metadata": {
+            "fileType": "Digitale Aufnahme",
+            "description": "Gesamtaufnahme",
+            "created": "Anhaltische Gemälde-Galerie, Dessau",
+            "date": "c2008",
+            "source": "Anhaltische Gemälde-Galerie, Dessau"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 113
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7c_FR020/01_Overall/DE_AGGD_7c_FR020_c2008_Overall-004-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 227
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7c_FR020/01_Overall/DE_AGGD_7c_FR020_c2008_Overall-004-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 340
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7c_FR020/01_Overall/DE_AGGD_7c_FR020_c2008_Overall-004-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 3615,
+                "height": 2049
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7c_FR020/01_Overall/DE_AGGD_7c_FR020_c2008_Overall-004-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7c_FR020/01_Overall/DE_AGGD_7c_FR020_c2008_Overall-004.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "DE_AGGD_7c_FR020_Image-date-unknown_Overall-005",
+          "metadata": {
+            "fileType": "scan einer schwarz-weiß Fotografie",
+            "description": "Gesamtaufnahme",
+            "created": "Anhaltische Gemälde-Galerie, Dessau",
+            "date": "unbekannt",
+            "source": "Anhaltische Gemälde-Galerie, Dessau"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 277
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7c_FR020/01_Overall/DE_AGGD_7c_FR020_Image-date-unknown_Overall-005-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 554
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7c_FR020/01_Overall/DE_AGGD_7c_FR020_Image-date-unknown_Overall-005-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 831
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7c_FR020/01_Overall/DE_AGGD_7c_FR020_Image-date-unknown_Overall-005-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 5067,
+                "height": 7018
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7c_FR020/01_Overall/DE_AGGD_7c_FR020_Image-date-unknown_Overall-005-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7c_FR020/01_Overall/DE_AGGD_7c_FR020_Image-date-unknown_Overall-005.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "DE_AGGD_7c_FR020_1937_Overall-006",
+          "metadata": {
+            "fileType": "Scan eines Glasplattennegativs (237 x 175mm)",
+            "description": "Gesamtaufnahme",
+            "created": "Gemäldegalerie der Staatlichen Museen zu Berlin - Preußischer Kulturbesitz",
+            "date": "1937, Ausstellungskatalog Berlin, Nr. 015",
+            "source": "Gemäldegalerie der Staatlichen Museen zu Berlin - Preußischer Kulturbesitz"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 228
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7c_FR020/01_Overall/DE_AGGD_7c_FR020_1937_Overall-006-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 457
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7c_FR020/01_Overall/DE_AGGD_7c_FR020_1937_Overall-006-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 685
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7c_FR020/01_Overall/DE_AGGD_7c_FR020_1937_Overall-006-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 6433,
+                "height": 7342
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7c_FR020/01_Overall/DE_AGGD_7c_FR020_1937_Overall-006-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7c_FR020/01_Overall/DE_AGGD_7c_FR020_1937_Overall-006.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "DE_AGGD_7c_FR020_RKD_Overall-001r",
+          "metadata": {
+            "fileType": "scan einer schwarz-weiß Fotografie",
+            "description": "Gesmataufnahme",
+            "created": "Netherlands Institute for Art History (RKD), The Hague; Max J. Friedländer Archive",
+            "date": "vor 1958",
+            "source": "Netherlands Institute for Art History (RKD), The Hague; Max J. Friedländer Archive"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 153
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7c_FR020/11_RKD/01_Overall/DE_AGGD_7c_FR020_RKD_Overall-001r-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 307
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7c_FR020/11_RKD/01_Overall/DE_AGGD_7c_FR020_RKD_Overall-001r-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 460
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7c_FR020/11_RKD/01_Overall/DE_AGGD_7c_FR020_RKD_Overall-001r-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 2516,
+                "height": 1929
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7c_FR020/11_RKD/01_Overall/DE_AGGD_7c_FR020_RKD_Overall-001r-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7c_FR020/11_RKD/01_Overall/DE_AGGD_7c_FR020_RKD_Overall-001r.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "DE_AGGD_7c_FR020_RKD_Overall-001v",
+          "metadata": {
+            "fileType": "scan einer schwarz-weiß Fotografie",
+            "description": "Rückseite des Fotos",
+            "created": "Netherlands Institute for Art History (RKD), The Hague; Max J. Friedländer Archive",
+            "date": "vor 1958",
+            "source": "Netherlands Institute for Art History (RKD), The Hague; Max J. Friedländer Archive"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 151
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7c_FR020/11_RKD/01_Overall/DE_AGGD_7c_FR020_RKD_Overall-001v-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 302
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7c_FR020/11_RKD/01_Overall/DE_AGGD_7c_FR020_RKD_Overall-001v-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 453
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7c_FR020/11_RKD/01_Overall/DE_AGGD_7c_FR020_RKD_Overall-001v-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 2535,
+                "height": 1916
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7c_FR020/11_RKD/01_Overall/DE_AGGD_7c_FR020_RKD_Overall-001v-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_7c_FR020/11_RKD/01_Overall/DE_AGGD_7c_FR020_RKD_Overall-001v.dzi",
+              "type": "dzi"
+            }
+          }
+        }
+      ]
+    },
+    "classification": "Malerei",
+    "repository": "Anhaltische Gemälde-Galerie, Dessau",
+    "owner": "Anhaltische Gemälde-Galerie, Dessau",
+    "artist": "Lucas Cranach der Ältere",
+    "sortingNumber": "1509-006",
+    "id": "DE_AGGD_7c",
+    "medium": "Malerei auf Lindenholz\n[Klingen, Cat. Dessau 1996, Bd. 1, 23]",
+    "gptDescription": "Der Marienaltarretabel, sogenannter Fürstenaltar, zeigt die zentrale Figur der Madonna, flankiert von den Heiligen Katharina und Barbara. Maria blickt sanft auf den Betrachter, während sie das Christuskind auf ihrem Schoß hält. Christus überreicht Katharina einen Ring, während Barbara dem Geschehen still folgt. Die beiden Heiligen tragen zeitgenössische Kleidung und ihre Attribute liegen auf einem Gesims. Zwei Putti nehmen die oberen Ecken des Bildes ein. Der schwarze Hintergrund setzt sich auf den Flügeln fort. Das Gemälde ist aus dem Jahre um 1510 und gehört der Anhaltischen Gemälde-Galerie in Dessau."
+  },
+  {
+    "title": "Maria mit dem Jesusknaben und den Heiligen Katharina, Dorothea, Margaretha und Barbara (Sogenannte 'Verlobung der Hl. Katharina')",
+    "date": "1516",
+    "description": "[Das Gemälde] zeigt Maria mit dem Christusknaben im Kreise der vier heiligen Jungfrauen und Märtyrerinnen Barbara, Dorothea, Katharina und Margaretha, also als 'virgo inter virgines'.\n\n[Klingen, Cat. Dessau 1996, Bd. 1, 27]",
+    "dimensions": "Maße Bildträger: 119,4-119,6 x 96,5 x 1,2 cm\nMaße mit Rahmen: 138 x 116,5 x 7,3 cm\n[Anhaltische Gemälde-Galerie, revised 2011]",
+    "media": {
+      "infos": {
+        "maxDimensions": {
+          "width": 6341,
+          "height": 7834
+        },
+        "hasOverallOverview": false
+      },
+      "images": [
+        {
+          "id": "DE_AGGD_10_FR085_c2008_Overall",
+          "metadata": {
+            "fileType": "Digitale Aufnahme",
+            "description": "Gesamtaufnahme",
+            "created": "Anhaltliche Gemälde-Galerie, Dessau",
+            "date": "2008",
+            "source": "Anhaltliche Gemälde-Galerie, Dessau"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 260
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_10_FR085/01_Overall/DE_AGGD_10_FR085_c2008_Overall-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 519
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_10_FR085/01_Overall/DE_AGGD_10_FR085_c2008_Overall-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 779
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_10_FR085/01_Overall/DE_AGGD_10_FR085_c2008_Overall-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 3796,
+                "height": 4929
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_10_FR085/01_Overall/DE_AGGD_10_FR085_c2008_Overall-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_10_FR085/01_Overall/DE_AGGD_10_FR085_c2008_Overall.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "DE_AGGD_10_FR085_c2008_Overall-001",
+          "metadata": {
+            "fileType": "Digitale Aufnahme",
+            "description": "Gesmataufnahme",
+            "created": "Anhaltliche Gemälde-Galerie, Dessau",
+            "date": "2008",
+            "source": "Anhaltliche Gemälde-Galerie, Dessau"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 279
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_10_FR085/01_Overall/DE_AGGD_10_FR085_c2008_Overall-001-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 558
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_10_FR085/01_Overall/DE_AGGD_10_FR085_c2008_Overall-001-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 837
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_10_FR085/01_Overall/DE_AGGD_10_FR085_c2008_Overall-001-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 3877,
+                "height": 5406
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_10_FR085/01_Overall/DE_AGGD_10_FR085_c2008_Overall-001-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_10_FR085/01_Overall/DE_AGGD_10_FR085_c2008_Overall-001.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "DE_AGGD_10_FR085_2010-04_Overall-002",
+          "metadata": {
+            "fileType": "Digitale Aufnahme",
+            "description": "Gesamtaufnahme",
+            "created": "Gunnar Heydenreich, cda",
+            "date": "2010-04",
+            "source": "cda"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 274
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_10_FR085/01_Overall/DE_AGGD_10_FR085_2010-04_Overall-002-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 547
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_10_FR085/01_Overall/DE_AGGD_10_FR085_2010-04_Overall-002-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 821
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_10_FR085/01_Overall/DE_AGGD_10_FR085_2010-04_Overall-002-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 2768,
+                "height": 3788
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_10_FR085/01_Overall/DE_AGGD_10_FR085_2010-04_Overall-002-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_10_FR085/01_Overall/DE_AGGD_10_FR085_2010-04_Overall-002.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "DE_AGGD_10_FR085_1937_Overall-003",
+          "metadata": {
+            "fileType": "Scan eines Glasplattennegativs (237 x 175mm)",
+            "description": "Gesamtaufnahme",
+            "created": "Gemäldegalerie der Staatlichen Museen zu Berlin - Preußischer Kulturbesitz",
+            "date": "1937, Ausstellungskatalog Berlin, Nr. 031",
+            "source": "Gemäldegalerie der Staatlichen Museen zu Berlin - Preußischer Kulturbesitz"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 247
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_10_FR085/01_Overall/DE_AGGD_10_FR085_1937_Overall-003-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 494
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_10_FR085/01_Overall/DE_AGGD_10_FR085_1937_Overall-003-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 741
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_10_FR085/01_Overall/DE_AGGD_10_FR085_1937_Overall-003-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 6341,
+                "height": 7834
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_10_FR085/01_Overall/DE_AGGD_10_FR085_1937_Overall-003-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_10_FR085/01_Overall/DE_AGGD_10_FR085_1937_Overall-003.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "DE_AGGD_10_FR085_RKD_Overall-001r",
+          "metadata": {
+            "fileType": "scan einer schwarz-weiß Fotografie",
+            "description": "Gesamtaufnahme",
+            "created": "Netherlands Institute for Art History (RKD), The Hague; Max J. Friedländer Archive",
+            "date": "vor 1958",
+            "source": "Netherlands Institute for Art History (RKD), The Hague; Max J. Friedländer Archive"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 283
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_10_FR085/11_RKD/01_Overall/DE_AGGD_10_FR085_RKD_Overall-001r-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 566
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_10_FR085/11_RKD/01_Overall/DE_AGGD_10_FR085_RKD_Overall-001r-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 849
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_10_FR085/11_RKD/01_Overall/DE_AGGD_10_FR085_RKD_Overall-001r-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 2326,
+                "height": 3292
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_10_FR085/11_RKD/01_Overall/DE_AGGD_10_FR085_RKD_Overall-001r-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_10_FR085/11_RKD/01_Overall/DE_AGGD_10_FR085_RKD_Overall-001r.dzi",
+              "type": "dzi"
+            }
+          }
+        },
+        {
+          "id": "DE_AGGD_10_FR085_RKD_Overall-001v",
+          "metadata": {
+            "fileType": "scan einer schwarz-weiß Fotografie",
+            "description": "Rückseite des Fotos",
+            "created": "Netherlands Institute for Art History (RKD), The Hague; Max J. Friedländer Archive",
+            "date": "vor 1958",
+            "source": "Netherlands Institute for Art History (RKD), The Hague; Max J. Friedländer Archive"
+          },
+          "sizes": {
+            "xsmall": {
+              "dimensions": {
+                "width": 200,
+                "height": 281
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_10_FR085/11_RKD/01_Overall/DE_AGGD_10_FR085_RKD_Overall-001v-xs.jpg",
+              "type": "img"
+            },
+            "small": {
+              "dimensions": {
+                "width": 400,
+                "height": 563
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_10_FR085/11_RKD/01_Overall/DE_AGGD_10_FR085_RKD_Overall-001v-s.jpg",
+              "type": "img"
+            },
+            "medium": {
+              "dimensions": {
+                "width": 600,
+                "height": 844
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_10_FR085/11_RKD/01_Overall/DE_AGGD_10_FR085_RKD_Overall-001v-m.jpg",
+              "type": "img"
+            },
+            "origin": {
+              "dimensions": {
+                "width": 2342,
+                "height": 3296
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_10_FR085/11_RKD/01_Overall/DE_AGGD_10_FR085_RKD_Overall-001v-origin.jpg",
+              "type": "img"
+            },
+            "tiles": {
+              "dimensions": {
+                "width": 0,
+                "height": 0
+              },
+              "src": "https://lucascranach.org/imageserver-2022/DE_AGGD_10_FR085/11_RKD/01_Overall/DE_AGGD_10_FR085_RKD_Overall-001v.dzi",
+              "type": "dzi"
+            }
+          }
+        }
+      ]
+    },
+    "classification": "Malerei",
+    "repository": "Anhaltische Gemälde-Galerie, Dessau",
+    "owner": "Anhaltische Gemälde-Galerie, Dessau",
+    "artist": "Lucas Cranach der Ältere",
+    "sortingNumber": "1516-001",
+    "id": "DE_AGGD_10",
+    "medium": "Malerei auf Lindenholz\n\n[Heydenreich 2007 A, 396]",
+    "gptDescription": "Das Gemälde \"Maria mit dem Jesusknaben und den Heiligen Katharina, Dorothea, Margaretha und Barbara\" zeigt Maria mit dem Christusknaben umgeben von den vier heiligen Jungfrauen und Märtyrerinnen Barbara, Dorothea, Katharina und Margaretha. Diese Darstellung wird auch als 'virgo inter virgines' bezeichnet. Das Gemälde stammt aus dem Jahr 1516 und befindet sich in der Anhaltischen Gemälde-Galerie in Dessau. Es zeigt die kunstvolle Malerei auf Lindenholz und ist rechts unten auf dem Schwert der hl. Katharina signiert und datiert. Das Werk war bereits in verschiedenen Ausstellungen zu sehen, darunter in Dresden, Berlin und Weimar. [Quelle: Wikipedia]"
+  }
+]

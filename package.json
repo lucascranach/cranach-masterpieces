@@ -1,0 +1,43 @@
+{
+  "name": "cranach-artefacts",
+  "version": "1.0.0",
+  "description": "Artefact pages for cda",
+  "main": "index.js",
+  "scripts": {
+    "lint:css": "stylelint src/assets/styles/**/*.css",
+    "lint:css:fix": "stylelint src/assets/styles/**/*.css --fix",
+    "watch:css": "onchange 'src/assets/styles/**/*.css' -- npm run build:css",
+    "watch": "npm-run-all --parallel build:css watch:*",
+    "build:css": "lightningcss --minify --bundle --sourcemap --targets '>= 0.25%' src/assets/styles/styles.css -o src/compiled-assets/styles.css",
+    "build:site": "npx cross-env ELEVENTY_ENV=external npx eleventy",
+    "internal:site": "npx cross-env ELEVENTY_ENV=internal npx eleventy",
+    "del:docs": "rimraf ./docs",
+    "del:assets": "rimraf ./src/compiled-assets",
+    "serve:11ty": "npx cross-env ELEVENTY_ENV=development npx eleventy --quiet --serve --watch --port=8080",
+    "serve:external": "serve ./docs/",
+    "dev": "npm-run-all del:docs build:css --parallel watch serve:11ty",
+    "build": "npm-run-all del:docs build:css build:site"
+  },
+  "author": "Christian Noss",
+  "license": "ISC",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "cheerio": "^1.0.0-rc.12",
+    "concat-glob-cli": "^0.1.0",
+    "lightningcss": "^1.24.1",
+    "lightningcss-cli": "^1.24.1",
+    "markdown-it": "^13.0.1",
+    "npm-run-all": "^4.1.5",
+    "onchange": "^7.1.0",
+    "openai": "^4.52.0",
+    "rimraf": "^3.0.2",
+    "stylelint": "^16.4.0",
+    "stylelint-config-idiomatic-order": "^10.0.0",
+    "stylelint-config-standard": "^36.0.0",
+    "stylelint-order": "^6.0.4"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5"
+  }
+}

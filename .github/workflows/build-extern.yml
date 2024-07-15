@@ -1,0 +1,52 @@
+name: Build and deploy to cda Server (extern)
+
+on:
+  push:
+    branches: ['main']
+  workflow_dispatch:
+    inputs:
+      environment:
+        type: string
+        default: extern
+        required: true
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: ['19']
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Use Node.js ${{ matrix.node-version }}
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node-version }}
+          cache: 'npm'
+
+      - name: Install packages
+        run: npm ci
+
+      - name: Run npm build
+        run: npm run build
+        env:
+          API_KEY: ${{ secrets.API_KEY }}
+          API_ENDPOINT: ${{ secrets.API_ENDPOINT }}
+          CACHE_FOLDER: ${{ secrets.CACHE_FOLDER }}
+      
+      - name: Remove index.html
+        run: rm -f ./docs/index.html
+
+      - name: Install SSH Key
+        uses: shimataro/ssh-key-action@v2
+        with:
+          key: ${{ secrets.CRANACH_SSH_AUTODEPLOY }}
+          known_hosts: 'just-a-placeholder-so-we-dont-get-errors'
+
+      - name: Adding Known Hosts
+        run: ssh-keyscan -p ${{ secrets.SSH_PORT }} -H ${{ secrets.SSH_HOST }} >> ~/.ssh/known_hosts
+
+      - name: Deploy with rsync
+        run: rsync -avz ./docs/ -e 'ssh -p ${{ secrets.SSH_PORT }}' ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:/var/www/html/artefacts-autodeploy/
